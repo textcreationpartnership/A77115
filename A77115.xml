@@ -1,0 +1,702 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Urbs deplorata. A sermon preached in course in the cathedral church of St. Mary Lincoln on the tenth Sunday after Trinity, Aug. 19. 1666. Happening at the time of the general assize. By Edward Boteler, prebendary of that church, rector of Wintringham in that county, and one of his Majesties chaplains.</title>
+            <author>Boteler, Edward, d. 1670.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1669</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 73 KB of XML-encoded text transcribed from 35 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77115</idno>
+            <idno type="STC">Wing B3803B</idno>
+            <idno type="STC">ESTC R223809</idno>
+            <idno type="EEBO-CITATION">99896724</idno>
+            <idno type="PROQUEST">99896724</idno>
+            <idno type="VID">135120</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77115)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135120)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2438:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Urbs deplorata. A sermon preached in course in the cathedral church of St. Mary Lincoln on the tenth Sunday after Trinity, Aug. 19. 1666. Happening at the time of the general assize. By Edward Boteler, prebendary of that church, rector of Wintringham in that county, and one of his Majesties chaplains.</title>
+                  <author>Boteler, Edward, d. 1670.</author>
+               </titleStmt>
+               <extent>[8], 61, [3] p. :ill.   </extent>
+               <publicationStmt>
+                  <publisher>printed by J.C. for Octavian Pulleyn, at the Kings head in Little-Britain,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1669.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With coat of arms on verso of first leaf.</note>
+                  <note>Title page is A2.</note>
+                  <note>Final leaf is blank.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:135120:1"/>
+            <p>
+               <figure>
+                  <figDesc>blazon or coat of arms</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:135120:1"/>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>RBS DEPLORATA.</hi> A SERMON Preached in Courſe In the Cathedral Church of St. <hi>Mary LINCOLN,</hi> On the Tenth Sunday after Trinity, <hi>Aug.</hi> 19. 1666. Happening at the time of THE GENERAL ASSIZE.</p>
+            <p>By <hi>Edward Boteler,</hi> Prebendary of that Church, Rector of <hi>Wintringham</hi> in that County, and one of his Majeſties Chaplains.</p>
+            <q>
+               <bibl>Thren. 1.9.</bibl>
+               <p>Noc recordata est finis ſui, depoſita eſt vehementer, non habens conſolatorem.</p>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>J. C.</hi> for <hi>Octavian Pulleyn,</hi> at the Kings head in <hi>Little-Britain.</hi> 1669.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:135120:2"/>
+            <pb facs="tcp:135120:2"/>
+            <head>To Sir <hi>John Monſon,</hi> Knight of the Honou<g ref="char:EOLhyphen"/>rable Order of the Bath, and Baronet.</head>
+            <p>SIr, I have, not without ſmiling, obſerved how ſome doating <hi>Dogma<g ref="char:EOLhyphen"/>tiſts</hi> of late, pretending to a Gravity ſome <hi>Centuries</hi> higher then the Age they live in, have ſcouled upon intitling Epiſtles, and by an affected Mo<g ref="char:EOLhyphen"/>roſity have attempted to ex<g ref="char:EOLhyphen"/>plode this honeſt way of Dedi<g ref="char:EOLhyphen"/>cation. I like not the humour at all; it hath too much of the
+<pb facs="tcp:135120:3"/>Proud, or the Peeviſh, or both, in it. Theſe ſullen Sirs, under pretence that they are afraid to be thought to fawn upon others, do moſt notoriouſly flatter them<g ref="char:EOLhyphen"/>ſelves: He is certainly the <hi>Grand Opinator,</hi> that dares face this Age of <hi>Vertuoſo's</hi> ſingle, and venture abroad with no better countenance then his own. Let Brutes creep into the World without help: to Convoy a Youngling into its firſt light, is nearer of kin to Humanity. Away then with ſuch rude ſeverities, let them be Tubb'd up with old Repro<g ref="char:EOLhyphen"/>bate Philoſophy! Give me a Patron; and, if I may chuſe, give me him that none can give but your ſelf, that is, your ſelf. A <hi>Lincolnſhire</hi> Dedi<g ref="char:EOLhyphen"/>cation
+<pb facs="tcp:135120:3"/>would not, ſhould not miſs Sir <hi>John Monſon:</hi> you ſtand Title-Page to your Coun<g ref="char:EOLhyphen"/>try; every Letter of your Name is great, and Capital among us.</p>
+            <p>Theſe Sheets, Sir, were voted to you long ſince, but could not till now paſs ſome difficulties that lay betwixt them and the Preſs. And truely, I gratulate their ſtay; for had they come out haſtily, they would have look'd like ſome good Mood, or fit of Devotion to you; where<g ref="char:EOLhyphen"/>as now they ſpeak me conſtant, and that to ſerve you is my meditation.</p>
+            <p>Live, <hi>Great Exemplar</hi> of Piety, Prudence and Loyalty, and whatever may intitle to Glory and Vertue: and live
+<pb facs="tcp:135120:4"/>again. Live in your ſelf, and live in your ſon; all that know you both, hope ſo, pray ſo: there's but that one Copy of you, but it is a fair one, a full one; and may happy Poſterity ſpeak you both to the World. Honour, Bleſſing, and immortality be up<g ref="char:EOLhyphen"/>on your Name. Theſe are no ſeldom ingredients in the pray<g ref="char:EOLhyphen"/>ers of, Sir,</p>
+            <closer>
+               <signed>Your faithful devoted Servant, <hi>Edw. Boteler.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:135120:4"/>
+            <head>A SERMON Preached in the Cathedral Church of <hi>Lincoln,</hi> on the tenth Sunday after <hi>Trinity, Aug.</hi> 19. 1666.</head>
+            <p>IT coſt me no pains to ſeek out a Text for this great Aſſembly; the Goſpel for the day brought it to my hands; there you have lately heard it read, there you may again ſee it written.</p>
+            <q>
+               <bibl>Luk. 19.42.</bibl>
+               <p>Dicens, Quia ſi cognoviſſes, &amp; tu, &amp; quidem in hac die tua, quae ad pacem tibi.</p>
+            </q>
+            <q>
+               <p>
+                  <hi>Saying,</hi> If thou hadſt known, e<g ref="char:EOLhyphen"/>ven thou, at least in this thy day, the things which belong un<g ref="char:EOLhyphen"/>to thy peace.</p>
+            </q>
+            <p>
+               <hi>Saying.</hi> And whoſe ſaying is it? That would be known. It is
+<pb n="2" facs="tcp:135120:5"/>the firſt word of the verſe, and calls for our firſt enquiry, leſt we make an immethodical entry, a breach upon the Text, and do it wrong.</p>
+            <p>But there's no danger of that, if we conſult the words immediate<g ref="char:EOLhyphen"/>ly foregoing, they point at him, and direct us to him: <hi>He</hi> (they ſay) <hi>beheld the City, and wept over it.</hi>
+            </p>
+            <p>
+               <hi>He:</hi> But who is that? Look a little higher, and you have him. He was a King, a bleſſed King, a King that came fairly by it, that came in God's Name; <hi>Bleſſed be the King that cometh in the Name of the Lord,</hi>
+               <note place="margin">Ver. 38.</note> v. 38.</p>
+            <p>Do you not yet ſee him plain enough, but would you a more particular account of him? You have him named, and may ſee how he was mounted, v. 35. <hi>They caſt their garments upon the Colt, and ſet Jeſus thereon.</hi> You have him attended, and may hear how he was applauded, v. 37. <hi>At the de<g ref="char:EOLhyphen"/>ſcent of the Mount of Olives, the whole multitude of the Diſciples be<g ref="char:EOLhyphen"/>gan to rejoyce, and to praiſe God with a loud voice:</hi> As if they over<g ref="char:EOLhyphen"/>heard
+<pb n="3" facs="tcp:135120:5"/>that call of <hi>Zechary,</hi>
+               <note place="margin">Zech. 9.9.</note> 
+               <hi>Rejoyce greatly O Daughter of</hi> Zion, <hi>ſhout O Daughter of</hi> Hieruſalem, <hi>behold thy King cometh unto thee!</hi>
+            </p>
+            <p>We have found then who He is, but we find him in a ſtrange poſture, one would think; the holy <hi>Jeſus</hi> is weeping, weeping e<g ref="char:EOLhyphen"/>ven then, when the multitude of his friends and followers were tri<g ref="char:EOLhyphen"/>pudiating, and in a tranſport of joy becauſe of him. Such are all joys on earth, they have their mix<g ref="char:EOLhyphen"/>tures, and allays; pure joy, and uninterrupted, is the reſerve of Heaven. The Inhabitants of the <hi>New Hieruſalem</hi> are only thus pri<g ref="char:EOLhyphen"/>viledged,
+<note place="margin">Rev. 21.4.</note> to have all tears wiped from their eyes, and know no more death, nor ſorrow, nor cry<g ref="char:EOLhyphen"/>ing, nor any more pain. When we have climbed the holy Hill, we are above the reach of trouble; whilſt we are paſſing the valley of <hi>Baca,</hi>
+               <note place="margin">Pſa. 84.6.</note> the Pools are filled with water, filled till they run over: <hi>He be<g ref="char:EOLhyphen"/>held the City, and wept over it.</hi>
+            </p>
+            <p>
+               <hi>And wept.</hi> And why wept? <hi>Va<g ref="char:EOLhyphen"/>lentinus</hi> indeed, (the Eccleſiaſtical
+<pb n="4" facs="tcp:135120:6"/>Hiſtory tells us) like a Dotard, fancied a God weeping when it rained, and laughing when the Sun ſhined: But how comes a Cloud in the face of the Sun? whence is it that this Well of Life at the ſame place ſends forth ſweet water, and bitter? Strange that tears ſhould flow from the fountain of joy!
+<note place="margin">Ludolph. vit. Chriſti</note> O but, <hi>Fons pie<g ref="char:EOLhyphen"/>tatis lachrymas continere non po<g ref="char:EOLhyphen"/>terat:</hi> He was ſuch a Fountain of piety and pity, that he could not look with dry eyes upon the inſo<g ref="char:EOLhyphen"/>lent ſins, and ingruent deſolations of the Daughter of <hi>Sion.</hi>
+               <note place="margin">Iſa. 53.4.</note> 
+               <hi>Surely he hath born our griefs, and carri<g ref="char:EOLhyphen"/>ed our ſorrows. Nec planxit aedi<g ref="char:EOLhyphen"/>ficia parietum, ſed ſubverſionem a<g ref="char:EOLhyphen"/>nimarum.</hi> He bewailed not ſo much their City, as their ſouls; It was not ſo much the goodly ſtones of their houſes, as the un<g ref="char:EOLhyphen"/>godly ſtone in their hearts, which was the object of his tears. It is a rare affection, and worthy our i<g ref="char:EOLhyphen"/>mitation, to be ſolicitous for the precious ſouls of men. Bleſſed be that paſſion that hath a ſenſe of
+<pb n="5" facs="tcp:135120:6"/>their ſins, and ſad eſtates, who have none of their own.</p>
+            <p>When <hi>Saul</hi> was grown ſo bad, that <hi>Samuel</hi> declined all converſe with him, would not come at him, which was a long time before his death, <hi>Veruntamen lugebat,</hi>
+               <note place="margin">1 Sam. 15.35.</note> 
+               <hi>Never<g ref="char:EOLhyphen"/>leſs</hi> Samuel <hi>mourned for</hi> Saul.</p>
+            <p>And what Bottle big enough to hold the tears which were ſpent upon this wretched people?
+<note place="margin">2 King. 8.12.</note> 
+               <hi>Eliſha</hi> wept becauſe of the evil which <hi>Hazael</hi> would do unto the chil<g ref="char:EOLhyphen"/>dren of <hi>Iſrael. Jeremy,</hi> becauſe of that they ſuffered under the <hi>Cal<g ref="char:EOLhyphen"/>deans,</hi> his Soul wept in ſecret,
+<note place="margin">Jer. 13.17.</note> and his eye wept ſore, becauſe the Lords Flock was carried away captive. And as if he could never mourn enough unleſs he were melted, he would be turned into a Well, an Ocean:
+<note place="margin">Ch. 9.1.</note> 
+               <hi>Oh that my head were waters, and mine eyes a foun<g ref="char:EOLhyphen"/>tain of tears, that I might weep day and night for the ſlain of the Daughter of my People!</hi>
+            </p>
+            <p>It was the laſt <hi>Item</hi> which our Lord, that <hi>Man of Sorrows,</hi>
+               <note place="margin">Iſa 53.3.</note> gave them in that black walk to his
+<pb n="6" facs="tcp:135120:7"/>paſſion, (where, it ſeems, ſome had the good nature to lament him) <hi>Daughters of</hi> Hieruſalem <hi>weep not for me,</hi>
+               <note place="margin">Luk. 23.28</note> 
+               <hi>but weep for your ſelves, and for your children.</hi> But ſince they had not the grace to do it for themſelves, he hath the compaſſion to do it for them; for, <hi>He beheld the City, and wept over it; ſaying, If thou hadſt known, even thou, at leaſt in this thy day, the things which belong unto thy peace!</hi>
+            </p>
+            <p>You ſee by this time whoſe the ſaying is, and what it means. <hi>Pa<g ref="char:EOLhyphen"/>tent viſcera,</hi>
+               <note place="margin">St. Bern.</note> 
+               <hi>per vulnera;</hi> as his bowels did appear by thoſe wounds which they after made in his body, ſo are they here audible from his tongue, legible in his eyes, all parts of him ſpeak his paſſionate thoughts for the ſins and ſufferings of <hi>Hieruſalem.</hi>
+            </p>
+            <p>Sins, and ſufferings, they were not parted in his, muſt not be in our mourning. We care not for them in conjunction, are over-apt to divide them. Sufferings we quickly feel, and heavily complain
+<pb n="7" facs="tcp:135120:7"/>of: ſcarce a word of our ſins; we go under them, as if we were in<g ref="char:EOLhyphen"/>ſenſible. Tears for ſufferings o<g ref="char:EOLhyphen"/>verflow our cheeks often; for ſins, ſeldome fill our eyes. When we ſuffer we can weep ſhowers, but we put off our ſins with a few heat-drops, and rarely they get them too.</p>
+            <p>But this is a ſquandring away that precious Eye-water intended for better uſe, and meets with few or no Comforters. <hi>Rachel</hi> wept, and would not be comfort<g ref="char:EOLhyphen"/>ed; ſhe wept for her loſſes. <hi>Ma<g ref="char:EOLhyphen"/>ry Magdalen</hi> wept, and found joy; ſhe wept for her luſts. Sor<g ref="char:EOLhyphen"/>row was made for ſin, is good for nothing elſe; and whatſoever ſtreams run another way, are ſtrag<g ref="char:EOLhyphen"/>lers, and have loſt their Chan<g ref="char:EOLhyphen"/>nel.</p>
+            <p>Let us then borrow from our ſufferings, to beſtow upon our ſins:
+<note place="margin">Iſa. 61.3.</note> this will bring the <hi>Garment of Praiſe for the ſpirit of heavi<g ref="char:EOLhyphen"/>neſs.</hi> This is <hi>Aquam fluentem in Cloacam deducere in hortum,</hi> as St. <hi>Auguſtine</hi> expreſſeth himſelf;
+<pb n="8" facs="tcp:135120:8"/>to turn the water which ran through the Sink, and bring it to the ſweeter and more delicious ſervice of the Garden. And cer<g ref="char:EOLhyphen"/>tainly we have cauſe enough, ne<g ref="char:EOLhyphen"/>ver more; our ſins are many, our ſufferings not a few: The Sword hath ſlain its thouſands, and the Plague its ten thouſands; and the Fire hath devoured our Habitati<g ref="char:EOLhyphen"/>ons, a Fire only ſhort of that threatned in <hi>Jeremy,</hi>
+               <note place="margin">Jer. 21.12.</note> 
+               <hi>To burn, and none can quench:</hi> a fire only ſe<g ref="char:EOLhyphen"/>cond to that in <hi>Deuteronomy, which burns to the loweſt hell,</hi>
+               <note place="margin">Ch. 32.22.</note> 
+               <hi>and ſets on fire the foundations of the Moun<g ref="char:EOLhyphen"/>tains.</hi> And for our ſins, who can number them? How ſhall we liſt thoſe <hi>Anakins</hi> which are all Com<g ref="char:EOLhyphen"/>manders? Pride, Luxury, Pro<g ref="char:EOLhyphen"/>phaneneſs, Atheiſm, Irreligion, Whoredome, Drunkenneſs, and Oaths of the new faſhion; <hi>Propter hoc lugebit terra,</hi>
+               <note place="margin">Hoſ. 4 3.</note> therefore ſhall the Land mourn. Becauſe of theſe, <hi>Ne faceat pupilla oculi;</hi>
+               <note place="margin">Thren. 2.18.</note> 
+               <hi>Let tears run down day and night, let not the apple of thine eye ceaſe.</hi> We may well weep for ſin, who are
+<pb n="9" facs="tcp:135120:8"/>all ſin, when he wept who knew no ſin; we heartily for our ſelves, when he ſo affectionately for o<g ref="char:EOLhyphen"/>thers: <hi>He wept over it, ſaying, If thou hadſt known, even thou, at leaſt in this thy day, the things which belong unto thy peace.</hi>
+            </p>
+            <p>The words are very paſſionate, and ſo ſomewhat broken, like the language of Mourners. Griefs can hardly ſpeak out: The Book of the <hi>Lamentations</hi> is obſerved to have no Title in the Original;
+<note place="margin">Cor. a La<g ref="char:EOLhyphen"/>pid. Arg. in Thren.</note> that which it now wears, was be<g ref="char:EOLhyphen"/>ſtowed on it by the <hi>Seventy two Interpreters.</hi> Sorrow is none of the beſt Speakers.</p>
+            <q>Flevimus, &amp; gemitus Luctantia verba repreſſit.</q>
+            <p>The affectionate thoughts of our Lord abounded till they crouded one another; ſo that like a multitude at a ſmall Port, each hindred the others paſs; broken words, coming from a broken heart; a Soul ſighing it ſelf out in love, and with an earneſt com<g ref="char:EOLhyphen"/>paſſion
+<pb n="10" facs="tcp:135120:9"/>crying out, <hi>Oh that thou;</hi> or, <hi>If thou hadſt known,</hi> &amp;c.</p>
+            <p>Nor doth the <hi>Apoſiopeſis,</hi> or re<g ref="char:EOLhyphen"/>preſſion of ſome words, make ſo wide a breach in the ſenſe, that we need fetch in any kind of Fil<g ref="char:EOLhyphen"/>lers to make it up.</p>
+            <p>Indeed if we make the <hi>[If]</hi> conditional only, then we muſt reſolve with the Commentator,
+<note place="margin">Maldonat. <hi>in</hi> Loc.</note> 
+               <hi>Dictio ſi exigit aliquod verbum ubi quodammodo quieſcat:</hi> there muſt be ſomething brought in for it to lean and reſt upon, and it will need a larger Supplement.</p>
+            <p>If thou kneweſt, <hi>what?</hi> There muſt be an object for knowledge; it will ſtarve if it have nothing but ſecond notions to feed upon.</p>
+            <p>If thou kneweſt, <hi>what then?</hi> It muſt be to ſome purpoſe, or elſe it makes but a ſounding braſs, and a tinkling Cymbal.</p>
+            <p>To ſupply theſe defects, Inter<g ref="char:EOLhyphen"/>preters have buſied themſelves more then needed; they might have ſpared their <hi>Paralipomenon</hi>'s with more thanks. Some of them are not worth naming: I'le only
+<pb n="11" facs="tcp:135120:9"/>preſent you with two or three of the better ſort.</p>
+            <p>If thou, The people in thee, and the chief of thee; knew me, as this poor company of Diſciples doth, and as thoſe leſſer Cities which have acknowledged, and re<g ref="char:EOLhyphen"/>ceived me.
+<note place="margin">Annot. in Locum.</note> So the <hi>Italian Dio<g ref="char:EOLhyphen"/>dati.</hi>
+            </p>
+            <p>If thou kneweſt, <hi>Ruinam ſcili<g ref="char:EOLhyphen"/>cet, &amp; ſubverſionem quae tibi im<g ref="char:EOLhyphen"/>minet,</hi> how near thou art to ruine and deſtruction, thou wouldeſt weep who now rejoyceſt. So our Country-man <hi>Gorran.</hi>
+               <note place="margin">In Loc.</note>
+            </p>
+            <p>If thou knoweſt, <hi>ſicut &amp; ego cognoſco,</hi> ſays <hi>Gregory</hi> and <hi>Bede,</hi>
+               <note place="margin">
+                  <hi>Homil.</hi> 29 <hi>in Evang.</hi>
+               </note> What I know, and ſee coming up<g ref="char:EOLhyphen"/>on thee, thou wouldeſt weep as I do, and have a more ſerious ſenſe of thy ſad and deplorable condi<g ref="char:EOLhyphen"/>tion.</p>
+            <p>But this Conditionality inga<g ref="char:EOLhyphen"/>geth it's followers in unneceſſary difficulties, and gives the Text not ſo much a ſupply, as a ſurfet. Nor is it ſo ſafe <hi>Verba foris accer<g ref="char:EOLhyphen"/>ſere,</hi>
+               <note place="margin">Beza <hi>in Annot.</hi>
+               </note> (ſays a learned pen upon the place) For if we may call in words
+<pb n="12" facs="tcp:135120:10"/>at pleaſure, we ſhall ſoon open a way to heretical depravations.</p>
+            <p>If we muſt have condition, that of Saint <hi>Cyril, Auguſtine</hi> and <hi>Theo<g ref="char:EOLhyphen"/>phylact,</hi> is doubtleſs beſt, who reſt the <hi>Si cognoviſſes</hi> upon the follow<g ref="char:EOLhyphen"/>ing <hi>Quae ad pacem tibi,</hi> and ſo make but one ſupply, thus. <hi>If thou kneweſt the things which belong unto thy peace,</hi> thou wouldeſt not neglect the opportunity now put into thy hands.</p>
+            <p>But what need this <hi>[If]</hi> be con<g ref="char:EOLhyphen"/>ditional, when it may be Optative, may better be ſo? <hi>Praeſtat ut in optandi forma legamus, quam cum reticentia. Oh that thou had'st known,</hi> or, Would thou had'ſt bin ſo happy as to know <hi>the things that belong unto thy peace in this thy day!</hi> And then we have the com<g ref="char:EOLhyphen"/>pleat ſenſe within us, and the ſen<g ref="char:EOLhyphen"/>tence will be more emphatical: nor doth this want the countenance of the beſt Authors; for beſides that it is uſual in the elegant <hi>Lucian,</hi> the Criticks tell us that the He<g ref="char:EOLhyphen"/>brew <hi>[Si]</hi> is often all one with an <hi>[<g ref="char:V">Ʋ</g>tinam.]</hi> And the <hi>Seventy two
+<pb n="13" facs="tcp:135120:10"/>Interpreters</hi> have ſo rendered it more then once; of which inſtances might be given, if it were a time or place for ſuch a purpoſe.</p>
+            <p>But I wave that. Be it a <hi>Si op<g ref="char:EOLhyphen"/>tantis</hi> then, Oh that thou hadſt known! This quickens the Empha<g ref="char:EOLhyphen"/>ſis, and ſuits well with that vehe<g ref="char:EOLhyphen"/>mency of affection, with which our Lord did here intend to ex<g ref="char:EOLhyphen"/>preſs himſelf, crying out both for and againſt the City. <hi>Neque enim tantum miſeratur urbis cladem: ſed ſimul ingrato populo extremum ſcelus exprobrat.</hi> He both pitties them becauſe of their ingruent calamity, and alſo objects to them their incomparable madneſs and ſtupidity. For</p>
+            <p>Here is <hi>Oculus plangentis,</hi> and <hi>Aculeus pungentis.</hi> A melting and gracious eye bewailing; and a ſharp, and quick ſting, upbraiding them for that ſad condition into which they had ſin'd themſelves. And we ſhall ſee it the better, if we look at it as the Text preſents it to us under a threefold charge of <hi>Ig<g ref="char:EOLhyphen"/>norance, Improvidence, Impudence.</hi>
+            </p>
+            <pb n="14" facs="tcp:135120:11"/>
+            <p n="1">I. <hi>Ignorance,</hi> in <hi>Si cognoviſſes:</hi> If thou hadſt known; and this heightened by the perſonal aggra<g ref="char:EOLhyphen"/>vation of <hi>Et Tu,</hi> If thou hadſt known, even Thou.</p>
+            <p n="2">II. <hi>Improvidence,</hi> in that there was,</p>
+            <p n="1">1. <hi>An Opportunity, In Die;</hi> they had a fair time, there was day for it.</p>
+            <p n="2">2. <hi>A propriety, In die tua;</hi> it was a day to which they were eſpecial<g ref="char:EOLhyphen"/>ly intituled, a day of their own. <hi>In thy day.</hi>
+            </p>
+            <p n="3">3. <hi>An Haecceity,</hi> or critical par<g ref="char:EOLhyphen"/>ticularity, <hi>In hac die tua;</hi> it was one day among many, and above all; a day with a <hi>This</hi> pointing at it, an <hi>Hic</hi> with an <hi>Et quidem</hi> too, <hi>at leaſt in this thy day.</hi>
+            </p>
+            <p n="3">III. <hi>Imprudence,</hi> in <hi>Quae ad pacem tibi:</hi> the things which they knew not in their day, were of greateſt concern to them, they belonged to their peace. <hi>If thou hadſt known, even thou, at leaſt in this thy day, the things which belong unto thy peace.</hi>
+            </p>
+            <div type="part">
+               <p>We begin with the firſt charge
+<pb n="15" facs="tcp:135120:11"/>againſt them, in the firſt words, <hi>Si cognoviſſes, If thou hadst known.</hi>
+               </p>
+               <p>
+                  <hi>Sed numquid Iſrael non cogno<g ref="char:EOLhyphen"/>vit?</hi> St. <hi>Paul</hi> made it a Query, and ſo may we,
+<note place="margin">Rom. 10.19. Rom. 3.2. Act. 7.53.</note> 
+                  <hi>Did not Iſrael know?</hi> Is it poſſible? <hi>To them were committed the Oracles of God. They received the Law by the diſpoſition of Angels.</hi> Their Fathers kept a correſpondence with <hi>God,</hi> by <hi>Mo<g ref="char:EOLhyphen"/>ſes,</hi> who was admitted to nearer approaches, then any that ever wore fleſh, and was not Divinity within. The Tabernacle of God was among them.
+<note place="margin">Pſal. 147, 19, 20.</note> They had <hi>Sta<g ref="char:EOLhyphen"/>tutes</hi> and <hi>Ordinances</hi> to a <hi>Non ta<g ref="char:EOLhyphen"/>liter fecit,</hi> He dealt not ſo with any Nation. So that <hi>Notus in Judaea Deus,</hi> was the triumphant Song of this eminent people, <hi>In Judah is God known,</hi>
+                  <note place="margin">Pſal. 76.1.</note> 
+                  <hi>and his Name is great in Iſrael;</hi> and is it now come to a <hi>Si cognoviſſes,</hi> If thou hadſt known?</p>
+               <p>But it may be this Ignorance is among the Rabble onely, where better cannot be expected; This people who know not the Law are curſed;
+<note place="margin">Joh. 7.49.</note> poſſibly the better ſort
+<pb n="16" facs="tcp:135120:12"/>are better knowing: the Phariſees took it ill that their knowledge ſhould be ſuſpected, they aſk with ſcorne,
+<note place="margin">Joh. 9.40.</note> 
+                  <hi>Are we blind alſo?</hi> We had beſt then take the Prophet <hi>Je<g ref="char:EOLhyphen"/>remie</hi>'s courſe:
+<note place="margin">Jer. 5.4, 5.</note> 
+                  <hi>I ſaid, Theſe are poor, they are fooliſh, they know not the way of the Lord. I will get me unto the great men;</hi> and how ſpeeds he there? not a whit better, <hi>Theſe have altogether broken the yoke.</hi> Out of their own mouths we may condemn theſe wicked ſer<g ref="char:EOLhyphen"/>vants; you have them boaſting of their folly,
+<note place="margin">Joh. 7.48.</note> 
+                  <hi>Have any of the Rulers or of the Phariſees believed on him? The Priests ſaid not where is the Lord?</hi>
+                  <note place="margin">Jer. 2.8.</note> 
+                  <hi>and they that handle the Law knew him not. Samaritana Meſſi<g ref="char:EOLhyphen"/>am cognovit ad fontem,
+<note place="margin">Hier. Ep. ad Ruſtic.</note> quem in Templo populus Jadaeorum ignora<g ref="char:EOLhyphen"/>bat.</hi> There was abundant blockiſh<g ref="char:EOLhyphen"/>neſs lurking under the Gowns of the Temple, deſperate <hi>Dunces</hi> a<g ref="char:EOLhyphen"/>mong the <hi>Doctors;</hi> and they that affected the name of <hi>Rabbi,</hi> and walked in print with their inlarg<g ref="char:EOLhyphen"/>ed <hi>Phylacteries,</hi> were but painted poſts with ſome gay inſcriptions,
+<pb n="17" facs="tcp:135120:12"/>nothing in them, as ignorant as a<g ref="char:EOLhyphen"/>ny. The ſtupidity was univerſal, paſt <hi>Saint Paul's Quidam,</hi> Some have not the knowledge of God: nearer the <hi>Pſalmist's Non eſt uſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> adunum,</hi> not one that underſtands, and ſeeks after God. They are all within <hi>Si cognoviſſes;</hi> Our Saviour bewailes them for it, upbraides them with it, <hi>If thou hadſt known.</hi>
+               </p>
+               <p>Nor was it a ſimple neſcience, but a ſinful ignorance. There are ſeveral things (as <hi>Pariſienſis</hi> ob<g ref="char:EOLhyphen"/>ſerves) to which a man may re<g ref="char:EOLhyphen"/>return a <hi>Neſcio,</hi> and not bluſh. Ask the Divine if he can cut out a ſhooe, or ſhape a Garment; and he may with a whole credit ſay, <hi>Neſcio.</hi> Ask the Artificer if he can preach, it may be ſome as bold as ignorant will pretend to it, but a prudent ſober perſon will ſay, <hi>Neſcio;</hi> and it is no diſhonour to him. It is ſafe to ſit down in an humble and contented ignorance, of what either is not the proper object of our enquiry, or reveal<g ref="char:EOLhyphen"/>ed to us, and required of us as our duty to know. Our Lord chides
+<pb n="18" facs="tcp:135120:13"/>ſuch darings, repells them with a <hi>Non eſt veſtrum,</hi>
+                  <note place="margin">Act. 1.7.</note> 
+                  <hi>It is not for you to know the times or the ſeaſons, which the Father hath put in his own power. What God locks up, we may not break open.</hi> His Counſels are great depths, Diving will bring in danger of drowning. <hi>Miranda ſunt, non Rimanda:</hi> We muſt ad<g ref="char:EOLhyphen"/>mire them onely, when we are not admitted to them. <hi>Abſcondita Do<g ref="char:EOLhyphen"/>mino Deo noſtro,</hi>
+                  <note place="margin">Deut. 29.29.</note> 
+                  <hi>The ſecret things belong unto the Lord our God: but thoſe things which are revealed be<g ref="char:EOLhyphen"/>long unto us, that we may do them.</hi> Not to do them ſhall have many ſtripes, not to know them ſhall have ſome: the <hi>Si cognoviſſes</hi> hath one laſh at him, <hi>If thou hadst known.</hi>
+               </p>
+               <p>And that we may make good this charge, and give in the clearer evidence againſt this Ignorance, let us (if you pleaſe) borrow the uſual diſtinction of <hi>Ignorance</hi> from the <hi>Schools,</hi> with whom it is, <hi>Craſ<g ref="char:EOLhyphen"/>ſa, Supina, &amp; Affectata;</hi> We need no more but them three.</p>
+               <p n="1">1. In the <hi>Si Cognoviſſes,</hi> is <hi>Igno<g ref="char:EOLhyphen"/>rantia
+<pb n="19" facs="tcp:135120:13"/>Craſſa,</hi> an Ignorance of ſome thickneſs. Their eyes were not onely made up with <hi>Scales,</hi> like <hi>Saul</hi>'s;
+<note place="margin">Act. 9.18.</note> but their whole ſouls were cruſted over. What holy <hi>Agur</hi> ſays modeſtly of himſelf, may be juſtly ſaid of them:
+<note place="margin">Prov. 30.2</note> 
+                  <hi>Surely</hi> they were <hi>more brutiſh then any men,</hi> and <hi>had not the understanding of men.</hi> Their rudeneſs ſet them below the School of the <hi>Ant,</hi> and thoſe other ſagacious creatures, and ranged them with the Horſe and Mule, which have no underſtanding. Not ſo like <hi>Pelagius,</hi> born with one eye; as the man in the Goſpel,
+<note place="margin">Joh. 9.2. Pſa. 14.4.</note> 
+                  <hi>who was born blind.</hi> Theſe <hi>workers of ini<g ref="char:EOLhyphen"/>quity</hi> had <hi>no knowledge.</hi> There was not onely <hi>Velamen in Moſe,</hi> but <hi>Velamen in Corde,</hi>
+                  <note place="margin">Mat. 13.15</note> 
+                  <hi>For this people's heart is waxed groſs.</hi> There was an <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Theophylact</hi>'s word,
+<note place="margin">Theophyl. in Loc.</note> a Non-ſence upon them. So untaught they were, they knew not their own language, in ſo much that af<g ref="char:EOLhyphen"/>ter ſeventy years captivity, when <hi>Ezra</hi> read the Law to them, they underſtood not what was read, untill <hi>Scribes</hi> were appointed to
+<pb n="20" facs="tcp:135120:14"/>expound it, which was the original of that office, (which after became a Sect among them) as ſome learn<g ref="char:EOLhyphen"/>ed pens have obſerved. <hi>The King of Aſſyria</hi> gave them as good as he took, when he tranſplanted Men from <hi>Babylon,</hi>
+                  <note place="margin">2 King. 17.24, 26.</note> 
+                  <hi>and Cuthah, and A<g ref="char:EOLhyphen"/>va, and Hamath, and Sepharvaim, that knew not the manner of the God of the Land.</hi> Here were the <hi>Prophet's Tenebrae,</hi>
+                  <note place="margin">Joel 2.2.</note> 
+                  <hi>&amp; Caligo, darkneſs, and thick darkneſs.</hi> The Apoſtle's <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>,
+<note place="margin">Jud. 13.</note> the very <hi>blackneſs of darkneſs,</hi> nothing darker but Hell: A moſt ſad <hi>Si Cognoviſſes,</hi> If thou hadſt known.</p>
+               <p n="2">2. In this <hi>Si Cognoviſſes,</hi> is <hi>Igno<g ref="char:EOLhyphen"/>rantia Supina,</hi> which, though ſome moſſy and over-grown Philoſo<g ref="char:EOLhyphen"/>phers have confounded with the former, yet thoſe of a modern and quicker eye have diſtinguiſhed ac<g ref="char:EOLhyphen"/>cording to the import of the word. A gazing and a gaping ignorance, an oſcitancy, they were an heed<g ref="char:EOLhyphen"/>leſs people. Wiſdome ſtretched out her hands, and lifted up her voice, and no man heard, no man regarded. <hi>Veternus civitatem occu<g ref="char:EOLhyphen"/>pat,</hi>
+                  <pb n="21" facs="tcp:135120:14"/>(in the Orator's phraſe) they were under the ſeiſure of ſloth and obtorpency, dwelt <hi>careleſs,</hi>
+                  <note place="margin">Judg. 18.7</note> 
+                  <hi>after the manner of the Zidonians,</hi> quiet and ſecure; never regarded <hi>the work of the Lord, nor conſidered the operation of his hands.</hi>
+                  <note place="margin">Iſa. 26.11.</note> Let his <hi>hand be lifted up, and they ſee it not.</hi> Let things go as they will with <hi>Soſthenes,</hi> and the <hi>Synagogue,</hi>
+                  <note place="margin">Act. 18.17.</note> let the judgement-Seat be affronted, they are of <hi>Gallio's</hi> humour, <hi>care for none of thoſe things.</hi> They think the <hi>Keeper of Iſrael,</hi> is as ſleepy as <hi>Baal,</hi> and ſay in their hearts (ſo <hi>Zephany</hi> chargeth them) <hi>The Lord will not do good,</hi>
+                  <note place="margin">Zeph. 1.12</note> 
+                  <hi>neither will he do evil.</hi> The <hi>Storke</hi> and <hi>Crane,</hi> the <hi>Turtle</hi> and <hi>Swallow</hi> are let fly in their faces by the <hi>Prophet,</hi>
+                  <note place="margin">Jer. 8.7.</note> for obſerving their <hi>appointed times,</hi> whilſt they know not the day of their Viſitation. They were wea<g ref="char:EOLhyphen"/>therwiſe, could <hi>diſcern the face of the sky:</hi>
+                  <note place="margin">Mat. 16.3.</note> but diſcern'd not the times, look'd not at thoſe black clouds which hung over them, and threatned a ſtorm of wrath ready to fall upon their
+<pb n="22" facs="tcp:135120:15"/>wretched heads.
+<note place="margin">Matt. 3.7.</note> 
+                  <hi>John Baptiſt warnes them to flee from the wrath to come.</hi> Our Saviour moves it to them as a difficulty not to be eaſi<g ref="char:EOLhyphen"/>ly encountred,
+<note place="margin">Mat. 23.33</note> 
+                  <hi>How will you eſcape the damnation of Hell?</hi> But they (like <hi>Job</hi>'s <hi>Leviathan)</hi> are <hi>made without all fear.</hi>
+                  <note place="margin">Job 41.33</note> It was in theirs as in the days of <hi>Noah</hi> and <hi>Lot,</hi>
+                  <note place="margin">Luk 87.28</note> 
+                  <hi>They eat, they drank, and married, and bought, and ſold, and plant<g ref="char:EOLhyphen"/>ed, and builded:</hi> neither the Old World, nor <hi>Sodom;</hi> neither fire, nor water ſtartles them; whilſt they are inadvertent, they are ſafe.
+<note place="margin">2 Sam. 13.13.</note> Such <hi>Fools in Iſrael whither will they cauſe their ſhame to go?</hi> A ſtrange <hi>Si Cognoviſſes</hi> indeed; it is <hi>Ignorantia Supina,</hi> or <hi>neglectus Remedii,</hi> If thou hadſt known. That's a ſecond.</p>
+               <p n="3">3. In <hi>Si Cognoviſſes,</hi> is <hi>Ignoran<g ref="char:EOLhyphen"/>tia Affectata,</hi> a worſe Ignorance yet. They knew not, and they would not know. <hi>Latet eos volen<g ref="char:EOLhyphen"/>tes,</hi> as it is in Saint <hi>Peter,</hi> This they willingly are ignorant of. It is not ſo much <hi>Privatio Luminis,</hi> as <hi>A<g ref="char:EOLhyphen"/>verſio voluntatis,</hi> in <hi>Aquinas</hi> his
+<pb n="23" facs="tcp:135120:15"/>words: The Judgement poſſibly ſees, but the Will ſays nay. What they ſee, they will not conſent to. They forſake their own mercies, and reject the Counſel of God a<g ref="char:EOLhyphen"/>gainſt themſelves. In <hi>Jeremie</hi> we find them declaring,
+<note place="margin">Jer. 44.16.</note> 
+                  <hi>As for the word that thou haſt ſpoken to us in the name of the Lord, we will not hearken unto thee.</hi> This their way is their folly;
+<note place="margin">Pſa. 49.13.</note> yet their poſterite approve their ſavings: they are their fathers ſons to a little, or ra<g ref="char:EOLhyphen"/>ther the Fathers are out-done by theſe children of diſobedience. How often do we meet with their diſputes, (ſuch as they are) againſt the Grace offered? And what they could not do by agument they would do by armes, the com<g ref="char:EOLhyphen"/>mon trick of them that have a weak or wicked cauſe. Let them be followed cloſe, and they have their <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> to retreat to, ſuch ſtrong holds as will yeild to no ſummons or aſſaults of truth. It was uſual with them to fence and fortifie againſt Heaven. When St.
+<note place="margin">Act. 6. &amp; 7.</note> 
+                  <hi>Stephen</hi> preached that quick Ser<g ref="char:EOLhyphen"/>mon
+<pb n="24" facs="tcp:135120:16"/>which out down ſo many Sectaries and <hi>Synagogues</hi> before him, leſt he ſhould enter them by the force of conviction, they ſtop<g ref="char:EOLhyphen"/>ped their ears, and ran upon him with one accord.</p>
+               <p>It is not once onely we hear complaints of their obſtinacy; Their Will Nots, and Would Nots, are frequent, and notorious.</p>
+               <p>
+                  <hi>Nolumus hunc regnare,</hi> (ther's one of them) <hi>Hunc,</hi> a lawful prince, no Uſurper; <hi>Regnare,</hi> a gracious reigne, no Tyranny, or arbitrary impoſition; No, all lies in <hi>nolumus,</hi> it is their perverſneſs,
+<note place="margin">Luk. 19.14</note> We will not have this man to reigne over us.</p>
+               <p>
+                  <hi>O Hieruſalem, Hieruſalem</hi> (ther's another of them) how often would I have gathered thy children toge<g ref="char:EOLhyphen"/>ther, as a Hen doth gather her brood under her wings? <hi>At nolu<g ref="char:EOLhyphen"/>iſti,</hi> ther's the miſchief on't, <hi>You would not</hi>
+                  <note place="margin">Luk. 13.34</note> 
+                  <hi>Et haec ſumma delicti eſt nolle agnoſcere, quem ignorare non poſſunt;</hi> So St. <hi>Cyrpian.</hi> No ignorance like that which will not know. It is <hi>Ignorantia Affectata,</hi> or <hi>Rejectio Remedii,</hi> that's the third.</p>
+               <pb n="25" facs="tcp:135120:16"/>
+               <p>I have but two Inferences to make now, and we ſhall ha' done with this.</p>
+               <p>This <hi>Si Cognoviſſes</hi> tells us, there are <hi>Cognoſcibilia,</hi> Things that may be known; and <hi>Cognoſcenda,</hi> Things that muſt be known.</p>
+               <p n="1">1. <hi>Si Cognoviſſes, If thou hadst known;</hi> There are <hi>Cognoſcibilia</hi> then, <hi>Things that may be known.</hi> Here is no precluding by a Decree: If ſo, then had our Saviour's tears bin feigned, and this vote of his a very vanity, a complemental com<g ref="char:EOLhyphen"/>paſſion; his wiſh had not bin hearty, but hypocritical, as too many of that rigid opinion are thought to be. S. <hi>Auguſtine</hi> hath a hard ſaying, who can hear it without ſhrinking? <hi>Quidam ideo non ſalvantur, non quia ipſi nolunt, ſed quia Deus non vult.</hi> But he was an <hi>Affrican,</hi> &amp; had too much of the heat of his coun<g ref="char:EOLhyphen"/>try in his head oft-times, for which he may well be called <hi>Durus pater,</hi> though otherwiſe of great parts, piety, and induſtry: The Church is in debt to his name for the light of his Generation. It is pitty he
+<pb n="26" facs="tcp:135120:17"/>cannot be reconciled to St. <hi>Paul,</hi> who tells <hi>Timothy,</hi> that God our Saviour will have all men to be ſa<g ref="char:EOLhyphen"/>ved, and to come to the knowledg of the truth. If they may not, away then with <hi>Si Cognoviſſes,</hi> our Sa<g ref="char:EOLhyphen"/>viour meant <hi>Hieruſalem</hi> no good, when he ſo paſſionarely deſired, <hi>If thou hadſt known.</hi>
+               </p>
+               <p n="2">2. <hi>Si Cognoviſſes, If thou hadſt known;</hi> There are <hi>Cognoſcenda</hi> then, <hi>Things that muſt be known,</hi> muſt, upon neceſſity, indiſpenſible neceſſity. There is not onely the neceſſity of a duty in it, We ſin if we be Ignorant: but the neceſſity of a remedy, We die unleſs we know him whom to know is eter<g ref="char:EOLhyphen"/>nal life. It is Maxime enough that of <hi>Fulgentius, Gravius Lex agnita, quam ignorata condemnat,</hi> Know<g ref="char:EOLhyphen"/>ledg damns deeper then ignorance, but yet ignorance condemns too. <hi>Capernaum</hi> is damn'd with a Stra<g ref="char:EOLhyphen"/>pado, exalted up to Heaven, and then thrown down to Hell, be<g ref="char:EOLhyphen"/>cauſe they heeded not the advan<g ref="char:EOLhyphen"/>tages of the Goſpel: but yet <hi>So<g ref="char:EOLhyphen"/>dom,</hi> and <hi>Gomorrah</hi> (with whom
+<pb n="27" facs="tcp:135120:17"/>the compariſon is made) deſtitute of ſuch means, ſhall alſo ſuffer the vengeance of eternal fire. <hi>
+                     <g ref="char:V">Ʋ</g>t mi<g ref="char:EOLhyphen"/>tius ardeant,</hi> is all the miſerable mercy which Ignorance can pre<g ref="char:EOLhyphen"/>tend to; it may alleviate, cannot ac<g ref="char:EOLhyphen"/>quit: and what is that, when no<g ref="char:EOLhyphen"/>thing of Hell is leſs then intole<g ref="char:EOLhyphen"/>rable? To ſay thou never taught<g ref="char:EOLhyphen"/>eſt in our ſtreets, will be but an in<g ref="char:EOLhyphen"/>ſecure plea in that day, when the Lord Jeſus ſhall be revealed from Heaven with his mighty Angels,
+<note place="margin">2 Theſ. 1.7, 8.</note> in flaming fire to take vengeance on them that know not God.</p>
+               <p>And that for <hi>Si Cognoviſſes,</hi> If thou hadſt known; They were Ig<g ref="char:EOLhyphen"/>norant.</p>
+               <p>But that's not all Here's an <hi>Et Tu</hi> beſide, or, a <hi>Vel Tu</hi> (as <hi>Beza</hi>) Even Thou. A perſonal, or rather a national aggravation of this Ig<g ref="char:EOLhyphen"/>norance, If thou hadſt known, E<g ref="char:EOLhyphen"/>ven <hi>Thou. Thou</hi> with an Emphaſis; Thou that haſt moſt cauſe, and from whom it might moſt juſtly be expected, having bin brought up under the Paedagogy of <hi>Moſes,</hi> diſciplin'd by the Prophets, and
+<pb n="28" facs="tcp:135120:18"/>taught of God. <hi>Thou</hi> rather, be<g ref="char:EOLhyphen"/>fore, above all others; for it is a tacit compariſon of <hi>Hieruſalem</hi> with the other cities of <hi>Judea,</hi> with the whole world: ſo notable a Thou is this, <hi>Even Thou.</hi> And that the Emphaſis may appear in greater force and vigour, pleaſe to look at this <hi>Thou,</hi> through the following particulars.</p>
+               <p n="1">1. <hi>Thou.</hi> And that <hi>Thou</hi> was <hi>
+                     <g ref="char:V">Ʋ</g>rbs,</hi> in the foregoing verſe, <hi>He beheld the City, ſaying, If Thou.</hi> It was no rude, and untutour'd village, no infrequented Town, and ſo void of commerce with what was more ingenuous and civil; but a City, a place of Order and Diſci<g ref="char:EOLhyphen"/>pline, under the immediate admi<g ref="char:EOLhyphen"/>niſtration of Law and Covern<g ref="char:EOLhyphen"/>ment, full of <hi>Synagogues</hi> and <hi>Schools,</hi> the chaffering place of o<g ref="char:EOLhyphen"/>pinions, the <hi>Empory</hi> for tongues, Nations,
+<note place="margin">Pſa. 122.5</note> and Languages. <hi>There were ſet Thrones of Judgment, the Thrones of the houſe of David.</hi>
+               </p>
+               <p>
+                  <hi>Gadara</hi> was Swiniſh, knew not to prize a Saviour, diſcharged him their coaſts. <hi>Micah</hi> was doltiſh,
+<pb n="29" facs="tcp:135120:18"/>got a houſe full of Gods, made an <hi>Ephod,</hi> and <hi>Teraphin,</hi> and conſe<g ref="char:EOLhyphen"/>crated a Prieſt: yet the leſs to blame, becauſe one of them was a Country-Town, the other a Grange onely on <hi>Mount Ephraim;</hi> few paths of knowledge led to them, they were out of wiſdom's walk. But thou, <hi>Even Thou,</hi> A <hi>Ci<g ref="char:EOLhyphen"/>ty,</hi> full of people, great among the Nations, the joy of the whole Earth, and a Type of Heaven. A chief place of Concourſe, a Con<g ref="char:EOLhyphen"/>fluence of Prieſts, and Elders, and Scribes, and Rabbi's, and long Robes, and yet be ignorant? Thy Glory is thy ſhame, <hi>Thou</hi> the <hi>City,</hi> that's the Firſt.</p>
+               <p n="2">2. <hi>Thou,</hi> and that Thou was <hi>
+                     <g ref="char:V">Ʋ</g>rbs electa,</hi> the choſen City.
+<note place="margin">Pſal. 132.13, 14.</note> 
+                  <hi>The Lord hath choſen Zion to himſelf, he hath deſired it for an habitati<g ref="char:EOLhyphen"/>on: this is my reſt for ever, here will I dwell.</hi> It was the place he choſe out of all the earth <hi>to place his Name there.</hi>
+                  <note place="margin">Deut. 14.23. Cant. 6.9.</note> 
+                  <hi>She was the onely One of her Mother, She was the choice One of her that bare her: the Daughters ſaw her, and bleſſed her;
+<pb n="30" facs="tcp:135120:19"/>the Queens, and the Concubines, and they praiſed her.</hi> Others were vile,
+<note place="margin">Pſal. 60.8.</note> and refuſe in his eyes; <hi>Moab is my Waſh-pot, over Edom will I caſt out my Shooe.</hi>
+                  <note place="margin">Iſa. 43.4.</note> 
+                  <hi>But thou waſt precious in mine eyes, and honour<g ref="char:EOLhyphen"/>able.</hi>
+                  <note place="margin">Deu. 32.9. Am. 3.2.</note> 
+                  <hi>The Lords portion is his peo<g ref="char:EOLhyphen"/>ple, Iſrael is the Lot of his Inheri<g ref="char:EOLhyphen"/>tance. You onely have I known of all the families of the earth.</hi>
+                  <note place="margin">Pſa. 10.4.</note> 
+                  <hi>And now through the pride of their coun<g ref="char:EOLhyphen"/>tenance they will not know, nor ſeek after God.</hi>
+                  <note place="margin">Deut. 32.6</note> 
+                  <hi>Do you thus requite the Lord, O fooliſh people; and unwiſe?</hi> Shall he that hath choſen you complain of you,
+<note place="margin">Pſal. 81.11</note> 
+                  <hi>Iſrael would none of me?</hi> It is an Ingratitude incomparable, a guilt could lie at no door but thine, If Thou hadſt known, <hi>Even Thou.</hi>
+               </p>
+               <p n="3">3. <hi>Thou,</hi> and that thou was <hi>
+                     <g ref="char:V">Ʋ</g>rbs Adamata,</hi> The beloved Ci<g ref="char:EOLhyphen"/>ty. What the Jews ſaid when they ſaw his tears for <hi>Lazarus,</hi> we may ſay, when we hear him weeping o<g ref="char:EOLhyphen"/>ver this City,
+<note place="margin">Joh. 11.36</note> 
+                  <hi>Behold how he loved it!</hi>
+                  <note place="margin">Pſal. 47.4. Pſal. 87.2.</note> 
+                  <hi>This was the Excellency of Ja<g ref="char:EOLhyphen"/>cob whom he loved. The Lord loveth the Gates of Zion more then all the
+<pb n="31" facs="tcp:135120:19"/>dwellings of Jacob. Jacob</hi> more then all the world, and <hi>Zion</hi> more then all <hi>Jacob.</hi> The time of this people was a <hi>Time of love,</hi> ſays,
+<note place="margin">Ezek. 16.8</note> 
+                  <hi>Ezekiel:</hi> of love and marriage, and all, ſays, <hi>Eſai;</hi>
+                  <note place="margin">Iſa. 62.4.</note> 
+                  <hi>Thou ſhalt be called. Hephzibah, and thy Land Beulah, for the Lord delighteth in thee, and thy Land ſhall be married. They ſhall be mine,</hi>
+                  <note place="margin">Mal. 3.17.</note> 
+                  <hi>ſaith the Lord of Hoſts, in the day when I make up my Jewels.</hi> They his? and he not theirs? That's not fair.
+<note place="margin">Iſa. 1.2.</note> 
+                  <hi>Hear O Heavens, and give Ear O Earth!</hi> Nay,
+<note place="margin">Iſa. 5.3.</note> 
+                  <hi>Let the Inhabitants of Hie<g ref="char:EOLhyphen"/>ruſalem, and even of Judah them<g ref="char:EOLhyphen"/>ſelves judge betwixt God and his Vineyard. Amor amoris praetium;</hi> and it is a reaſonable price too, to repay one love with another. The Spouſe thought ſo,
+<note place="margin">Cant. 2.16</note> 
+                  <hi>My beloved is mine, and I am his.</hi> St. <hi>John</hi> makes the ſame account, <hi>We love him be<g ref="char:EOLhyphen"/>cauſe he loved us firſt.</hi>
+                  <note place="margin">1 Joh. 4.19</note> And this people were of that mind once, God remindes them of it by the Prophet; <hi>I remember thee,</hi>
+                  <note place="margin">Jer. 2.2, 3.</note> 
+                  <hi>the kindneſs of thy youth, the love of thine eſpouſals, when thou wentest
+<pb n="32" facs="tcp:135120:20"/>after me in the Wilderneſs, in a Land that was not ſown. Iſrael then was holineſs unto the Lord;</hi> But now falſe and faithleſs that thou art, Thou haſt <hi>forgotten me days without number,</hi>
+                  <note place="margin">Jer. 2.32.</note> and haſt <hi>for<g ref="char:EOLhyphen"/>ſaken thy firſt love.</hi> Thou, even Thou,
+<note place="margin">Rev. 2.4.</note> It was <hi>
+                     <g ref="char:V">Ʋ</g>rbs adamata,</hi> that's the third.</p>
+               <p n="4">4. <hi>Thou,</hi> and that Thou was <hi>
+                     <g ref="char:V">Ʋ</g>rbs Sancta,</hi> The holy City. <hi>Hie<g ref="char:EOLhyphen"/>ruſalem</hi> made Greek, carries holi<g ref="char:EOLhyphen"/>neſs in the name.
+<note place="margin">Zech. 12.20.</note> 
+                  <hi>Sanctum Domi<g ref="char:EOLhyphen"/>no,</hi> is the Motto and Impreſs of it, <hi>Holineſs unto the Lord.</hi> It was de<g ref="char:EOLhyphen"/>dicated to God betimes; there <hi>A<g ref="char:EOLhyphen"/>braham</hi> ſacrificed,
+<note place="margin">Gen. 22.13</note> having commu<g ref="char:EOLhyphen"/>ted his Offering, when it was as yet but <hi>Mount Moriah.</hi> And after that it was made the Reſidence and Station of the Arke, where God did exhibit and preſentiate him<g ref="char:EOLhyphen"/>ſelf,
+<note place="margin">Heb. 9.1, 2, 3.</note> where were <hi>Ordinances of Divine Service, the Tabernacle, the Sanctuary, and the Holieſt</hi> of all, ſo the Apoſtle enumerates them. <hi>Hither the Tribes go up,</hi>
+                  <note place="margin">Pſal. 122.4</note> 
+                  <hi>the Tribes of the Lord unto the Teſtimony of Iſrael, to give thanks unto the name
+<pb n="33" facs="tcp:135120:20"/>of the Lord;</hi> ſo the <hi>Pſalmiſt</hi> ap<g ref="char:EOLhyphen"/>plauds them. To be ſhort,
+<note place="margin">Hier. Ep. ad Marcel.</note> 
+                  <hi>To tum my<g ref="char:EOLhyphen"/>ſterium iſtius noſtrum urbis verna<g ref="char:EOLhyphen"/>culuus eſt;</hi> what ever rarity ſojour<g ref="char:EOLhyphen"/>ned in thereſt of the World, was at home in that City. Had it been <hi>Dan,</hi> or <hi>Bethel,</hi> that had not known him, it had been leſs wonder: the in<g ref="char:EOLhyphen"/>fection of <hi>Jeroboam</hi> might ſtill ſtick by them, they were his nurſeries of <hi>Idolatry</hi> and <hi>Rebellion;</hi> He durſt not let them know the worſhip of the true God, for fear they ſhould honour the King, and return to the houſe of <hi>David.</hi> Nor had it been ſo much for <hi>Beerſheba;</hi> they were naught by preſcript, corrupted to a cuſtom, <hi>The manner of Beerſheba liveth</hi> (as it is in <hi>Amos) Secundum uſum Beerſhebae.</hi>
+                  <note place="margin">
+                     <hi>Cha.</hi> 8 14.</note> And <hi>Samaria</hi> may go in the ſame rank with them, The <hi>Statutes of Omri are kept there;</hi>
+                  <note place="margin">Mic. 6.6.</note> they were devoted to the follies of <hi>Ahab</hi> their founder. But <hi>Thou,</hi> the City of God, of which ſuch excel<g ref="char:EOLhyphen"/>lent things are ſpoken, the City of his holineſs, <hi>Coeleſte in terris Sacra<g ref="char:EOLhyphen"/>rium,</hi> the Repoſitory of all that's myſterious and ſacred, Thou to
+<pb n="34" facs="tcp:135120:21"/>carry an Inſcription like that Altar at <hi>Athens,</hi>
+                  <note place="margin">Act. 17.23.</note> 
+                  <hi>To the unknown God,</hi> Thou to be confuted by the Oxe that knows his owner, and be like the Beaſts that periſh, Thou thus to unhallow thy name,
+<note place="margin">Hier. Ep ad Euſtoch.</note> 
+                  <hi>Palma vitio<g ref="char:EOLhyphen"/>rum est honeſta polluere;</hi> This heigh<g ref="char:EOLhyphen"/>tens thy ſin, and haſtens thy ruine, <hi>If Thou hadſt known, even Thou:</hi> It was <hi>
+                     <g ref="char:V">Ʋ</g>rbs Sancta,</hi> The holy City; be that the laſt.</p>
+               <p>I ſhall paſs this particular by ap<g ref="char:EOLhyphen"/>plying only as <hi>Nathan</hi> did his pa<g ref="char:EOLhyphen"/>rable to <hi>David,</hi>
+                  <note place="margin">2 Sam. 12.7.</note> 
+                  <hi>Thou art the Man.</hi> This is ours too, We are an Em<g ref="char:EOLhyphen"/>phatical <hi>Thou:</hi> Thou the <hi>Church,</hi> and people of <hi>England,</hi>
+                  <note place="margin">Pſa. 72.12, 14.</note> 
+                  <hi>delivered when thou wert poor and hadſt no helper, Redeemed from deceit and violence,</hi>
+                  <note place="margin">Am. 4.11.</note> 
+                  <hi>A Firebrand pluckt out of the burning:</hi>
+                  <note place="margin">Hoſ. 6.1, 2.</note> 
+                  <hi>torne, and healed; ſmitten, and bound up: killed, and revived, and thou livest in his ſight.</hi>
+                  <note place="margin">Deut. 33.29.</note> 
+                  <hi>Happy art thou O people, who is like unto thee, ſaved by the Lord, the ſhield of thy ſtrength, and the ſword of thine excellency; thine ene<g ref="char:EOLhyphen"/>mies are found liers unto thee, and thou treadeſt upon their high places?</hi>
+                  <pb n="35" facs="tcp:135120:21"/>The Lord hath ſaved thee to a mi<g ref="char:EOLhyphen"/>racle by Land, and ſhewed many wonders for thee in the deep. <hi>The eternal God is thy refuge,</hi>
+                  <note place="margin">ver. 27.</note> 
+                  <hi>and un<g ref="char:EOLhyphen"/>derneath are the everlaſting Armes, and he ſhall thruſt out the Enemy before thee, and ſhall ſay deſtroy.</hi> Thy mercies are Talleys to <hi>Hieru<g ref="char:EOLhyphen"/>ſalem</hi>'s, more then ſecond to them; O do not overmatch her in ſin and ſottiſhneſs, be not the tranſcript of her unworthineſs; let it never be ſaid of thee, <hi>If thou hadſt known, even thou.</hi>
+               </p>
+               <p>And that for the firſt part of the charge againſt this people, their Ignorance hinted in <hi>Si cognoviſſes,</hi> and aggravated in <hi>Et Tu, If thou hadst known, even thou.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <p>The firſt part of our Text hath had a large portion of our time, the reſt muſt be put off with leſs: briefly then of the</p>
+               <p n="2">2. Their <hi>Improvidence,</hi> which is manifeſt</p>
+               <p n="1">1. Becauſe of their opportunity, it was <hi>In Die,</hi> they had a day for it. Day, and ſo it muſt needs be, the Sun was up,
+<note place="margin">Mal. 4.2:</note> 
+                  <hi>Malachi</hi>'s <hi>Sun of
+<pb n="36" facs="tcp:135120:22"/>Righteouſneſs was now riſen with healing in his wings.</hi> Day it was, for all was little better then night before. <hi>Tenebrae</hi> or <hi>
+                     <g ref="char:V">Ʋ</g>mbrae;</hi> natu<g ref="char:EOLhyphen"/>ral darkneſs, or legal ſhaddows, were till now in every Quarter of the World. And therefore the e<g ref="char:EOLhyphen"/>ſtate of the World before this day, is deſcribed by night and darkneſs: <hi>The night is far ſpent,</hi>
+                  <note place="margin">Rom. 13.22. Mat. 4.16</note> 
+                  <hi>the day is at hand. The people which ſate in dark<g ref="char:EOLhyphen"/>neſs ſaw great light: and to them who ſate in the Region and ſhadow of death, light is ſprung up. Illuxe<g ref="char:EOLhyphen"/>runt quaedam Coruſcationes Orbi terrarum,</hi> ſaith St. <hi>Proſper;</hi> of all that little light which the quickeſt eyes could hitherto diſcover, there were ſome little glimmerings only broke out, and now and then ap<g ref="char:EOLhyphen"/>peared. <hi>Abraham</hi> ſaw this day and was glad, but it was <hi>E longinquo,</hi> afarre off, and through the per<g ref="char:EOLhyphen"/>ſpective of an extraordinary faith. <hi>Balaam</hi> when his eyes were opened to ſee the Viſion of the <hi>Almighty,</hi> could diſcover a Star coming out of <hi>Jacob. Job</hi> ſaw through thoſe dark times, and the darker cham<g ref="char:EOLhyphen"/>bers
+<pb n="37" facs="tcp:135120:22"/>chambers of the grave,
+<note place="margin">St. <hi>Hier.</hi>
+                  </note> 
+                  <hi>Et nec dum natus erat Dominus Redemptorem ſuum vidit a mortuis reſurgentem;</hi> Saw him riſing from the dead, be<g ref="char:EOLhyphen"/>fore he was ſeen converſing a<g ref="char:EOLhyphen"/>mong the living.
+<note place="margin">
+                     <hi>Act.</hi> 3.24.</note> And not onely <hi>Moſes,</hi> but all the <hi>Prophets, from Samuel, and thoſe that follow af<g ref="char:EOLhyphen"/>ter, as many as have ſpoken, have likewiſe foretold of theſe days,</hi> ſays St.
+<note place="margin">
+                     <hi>Iſa.</hi> 60.3.</note> 
+                  <hi>Peter</hi> in his Sermon at the <hi>Tem<g ref="char:EOLhyphen"/>ple-Gate. Eſai</hi> ſaw the <hi>Gentiles</hi> coming to this light, <hi>and Kings to the brightneſs of this riſing. John Baptiſt,</hi> who ſtood betwixt the Law and the Goſpel, and is there<g ref="char:EOLhyphen"/>fore by the Fathers called <hi>Fibula utriuſque legis,</hi> brought in ſome more light; yet he <hi>was not that light, but was ſent to bear witneſs of that light.</hi>
+                  <note place="margin">
+                     <hi>Joh.</hi> 1.8.</note> He was onely Day-ſtar to the Sun, and it was as yet, but <hi>Si<g ref="char:EOLhyphen"/>cut mane expanſum ſuper montes;</hi> 'tis <hi>Joel</hi>'s expreſſion,
+<note place="margin">
+                     <hi>Joel.</hi> 2.21.</note> As the morn<g ref="char:EOLhyphen"/>ing ſpread upon the Mountains. It was never till the air was inlighten<g ref="char:EOLhyphen"/>ed with that briſking <hi>Hodie,</hi> iſſu<g ref="char:EOLhyphen"/>ing from the mouth of an Angel, <hi>This day is born to you a Saviour,
+<pb n="38" facs="tcp:135120:23"/>which is Chriſt the Lord.</hi> It was (that I may borrow ſeveral tongues to ſpeak withal at once) <hi>Crepuſculum legis,</hi> The Law's Twilight; <hi>Gal<g ref="char:EOLhyphen"/>licinium Prophetarum,</hi> The Cock<g ref="char:EOLhyphen"/>crowing of the Prophets; but now <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, through the tender mercies of our God, the Day<g ref="char:EOLhyphen"/>ſpring from on high hath viſited us. It was never perfect day till thoſe Beams of light began to gild the World. The Sun till then was under the <hi>Horizon,</hi> now he is come to his <hi>Zenith,</hi> and ſhines from the heights of Heaven. And now none can be blind, but <hi>Veſpertiliones fi<g ref="char:EOLhyphen"/>dei poſt occaſum Solis evigilantes,</hi> (in the words of <hi>Pariſienſis</hi>) They are Bats and Owles that withdraw and will have no Sun.
+<note place="margin">Joh. 3.19,</note> 
+                  <hi>This is the condemnation, that light is come in<g ref="char:EOLhyphen"/>to the World, and men loved dark<g ref="char:EOLhyphen"/>neſs rather then light.</hi> This was their caſe, it was <hi>In die,</hi> fair day<g ref="char:EOLhyphen"/>light with them, and yet they would not ſee, they abuſed their Opportunity, The firſt piece of their Improvidence.</p>
+               <p n="2">2. They had a propriety in this
+<pb n="39" facs="tcp:135120:23"/>day too, it was <hi>In dietua,</hi> In thy day.</p>
+               <p>
+                  <hi>Dies Hebraeorum more dicitur,</hi> ſay the Gloſſes, The Hebrews call day, that alotment of time in which Overtures for <hi>Heaven</hi> are made to them in the tenders of the Goſ<g ref="char:EOLhyphen"/>pel. Which were now ſo made to this people, as never the like to a<g ref="char:EOLhyphen"/>ny. The Sun ſhined upon others <hi>Radio obliquo,</hi> upon them <hi>Radio directo.</hi> primarily upon them, and directly; but obliquely upon the reſt of the World.
+<note place="margin">Luk. 2.32.</note> 
+                  <hi>He was a light to lighten the Gentiles,</hi> but <hi>the glo<g ref="char:EOLhyphen"/>ry of his people Iſrael.</hi> They were within the <hi>Tropick</hi> where the Sun had all his motion, his Influence moſt warm, and powerful there. How hardly he was forced into his <hi>Apogaeum,</hi> or receſſe from them, let his patience and long ſuffering bear him witneſs; Sun ſtand thou ſtill! and the Sun ſtood ſtill in the midſt of Heaven, and haſted not to go down for a whole day, as long as it was <hi>Dies tua</hi> with them, <hi>Thy Day.</hi>
+               </p>
+               <p>There are two Days which God
+<pb n="40" facs="tcp:135120:24"/>allowes the World.</p>
+               <p n="1">1. <hi>Dies hominis,</hi> (if I may make ſo bold with the <hi>Apoſtles</hi> expreſſion) The Day of Man, or Mans Day, as he calls it; a Day of nature, a time of life and pilgri<g ref="char:EOLhyphen"/>mage, a ſpace of Sojourning on this ſide the Grave, before he launch out into that unfathomable Ocean of eternity, when Days and Time ſhall be no more.</p>
+               <p n="2">2. <hi>Dies Tibi hominis,</hi> A Day the Goſpel mentions often, <hi>The Day of the Son of Man;</hi> the Day of Grace, wherein God waits to be gracious; the Day of Treaty with Souls; the Day of Expe<g ref="char:EOLhyphen"/>ctance, and Viſitation. All men have the former, a day of life, <hi>Till the ſilver cord be looſed,</hi>
+                  <note place="margin">Eccl. 12.6, 7.</note> 
+                  <hi>and the golden bowl be broken, and the duſt return to the earth as it was.</hi> The latter fell eſpecially to the lot of this wretched people, the moſt unworthy of all; they carri<g ref="char:EOLhyphen"/>ed it from all by a ſingular Prero<g ref="char:EOLhyphen"/>gative.
+<note place="margin">Luk 10.24</note> 
+                  <hi>Many prophets and kings have deſired to ſee thoſe things which they ſaw, and did not ſee
+<pb n="41" facs="tcp:135120:24"/>them; and to hear thoſe things which they heard, and could not hear them;</hi> for <hi>Nondum venerat hora,</hi> their hour was not yet come, it was not their <hi>Day.</hi>
+               </p>
+               <p>
+                  <hi>This Day.</hi> Thine ſo much, ſo wholly thine, that not a moment of it belonged to any other, but ſuch as by an extraordinary ſtrength of Faith could croud in for a ſhare of it; ſuch as the <hi>Magi</hi> of the Eaſt, the <hi>Syrophoenician</hi> Woman, and the <hi>Captain</hi> of the <hi>Italian</hi> Band. His <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, that glorious work of Redemption was in common, appertained to all; His <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, the gracious Miniſtration of his Apoſtleſhip, was confined, and peculiar to the Jews, to them one<g ref="char:EOLhyphen"/>ly;
+<note place="margin">Matt. 15.24.</note> 
+                  <hi>He was not ſent but to the loſt Sheep of the houſe of Iſrael.</hi> And his Apoſtle had it in Commiſſion, not to go <hi>In viam Gentium,</hi>
+                  <note place="margin">Matt. 10.5.</note> nor yet into any City of the <hi>Sama<g ref="char:EOLhyphen"/>ritans,</hi> who had ſome of the <hi>Jews</hi> in them ſtill; ſuch proprietors were the Jews in the rich treaſures of the Goſpel. St. <hi>Augustine</hi> ob<g ref="char:EOLhyphen"/>ſerves, that the Title of <hi>The God of
+<pb n="42" facs="tcp:135120:25"/>Abraham, Iſaac and Jacob,</hi> goes with ſuch a grace in Scripture, <hi>Tanquam trium hominum eſſet De<g ref="char:EOLhyphen"/>us,</hi> as if he was the God of theſe three men onely, and all the World were ſhut out but they and their ſeed. And in a manner ſo they were, till by their Apoſtacie, they made way for others, and o<g ref="char:EOLhyphen"/>pened that door in <hi>Iſaiah,</hi> to let in <hi>The Dromedaries of Midian,</hi>
+                  <note place="margin">
+                     <hi>Cha.</hi> 60.6, 7.</note> 
+                  <hi>and Ephah, and thoſe of Sheba to come; the flocks of Kedar, and the rams of Nebaioth.</hi> Then, indeed the comings in were great and nume<g ref="char:EOLhyphen"/>rous;
+<note place="margin">
+                     <hi>V.</hi> 8.</note> Then, <hi>Who are theſe that flie as a cloud, and as the doves to their windows?</hi>
+                  <note place="margin">Hieron. Ep. ad Pau<g ref="char:EOLhyphen"/>linum.</note> 
+                  <hi>Siccato Judeae vel<g ref="char:EOLhyphen"/>lere, <g ref="char:V">Ʋ</g>niverſus Orbis coeleſti rore perfuſus est:</hi> When the Jews refuſed, then the Gentiles were called in,
+<note place="margin">
+                     <hi>Joh.</hi> 4.22.</note> not till then. <hi>Salvati<g ref="char:EOLhyphen"/>on is of the Jews,</hi> ſays he that brought it. And two of his <hi>Apo<g ref="char:EOLhyphen"/>ſtles</hi> at once declare thus to the people at <hi>Antioch,</hi>
+                  <note place="margin">
+                     <hi>Act.</hi> 13.26.</note> 
+                  <hi>It was neceſſa<g ref="char:EOLhyphen"/>ry that the Word of God ſhould firſt have been ſpoken to you: but ſeeing you put it from you, and judge your
+<pb n="43" facs="tcp:135120:25"/>ſelves unworthy of everlaſting life, Lo, we turn to the Gentiles.</hi> The Jews had the firſt refuſal, the Day was chiefly theirs. <hi>Thy Day,</hi> that's the Propriety.</p>
+               <p n="3">3. And which makes their im<g ref="char:EOLhyphen"/>providence the greater, there was an <hi>Hecceity,</hi> or a <hi>critical Particu<g ref="char:EOLhyphen"/>larity</hi> in it too; it was, <hi>In hac die tua,</hi> in this thy Day.</p>
+               <p>
+                  <hi>In this;</hi> not that, or th' other; not every, not any day, which luſt will allow, or pleaſure ap<g ref="char:EOLhyphen"/>point, or profit diſpenſe with, or leiſure admit of; but this, this be<g ref="char:EOLhyphen"/>fore all, this or none, <hi>In this thy Day.</hi>
+               </p>
+               <p>
+                  <hi>Hieruſalem</hi> had other days, ſome black enough:
+<note place="margin">
+                     <hi>Pſal.</hi> 137.7.</note> 
+                  <hi>The Children of Edom in the day of Hieruſalem, cryed, Raſe it, raſe it even to the foundations thereof;</hi> and it may be they were better in thoſe worſe days. But this was a bright and glorious Day, <hi>A Day of Viſitati<g ref="char:EOLhyphen"/>on</hi> (as it is called <hi>v.</hi> 44.) A Day in which Chriſt came to viſit in great humility, (as it is in our Advent-Collect.) And a Day of viſits from
+<pb n="44" facs="tcp:135120:26"/>Heaven makes a <hi>This</hi> indeed, it may well be called This; <hi>In This thy Day.</hi>
+               </p>
+               <p>Let us compare it above other days, and ſee what a <hi>This</hi> it is a<g ref="char:EOLhyphen"/>bove them all.</p>
+               <p>The Antediluvian Fathers had a Day.
+<note place="margin">1 Pet. 3.20.</note> 
+                  <hi>The long ſuffering of God waited in the days of Noah;</hi> but behold a greater then <hi>Noah</hi> is here! they were not like <hi>This Day.</hi>
+               </p>
+               <p>Wiſdom had a loud voice in the days of <hi>Solomon;</hi> She ſtartled the diſtant corners of the Earth, and awakened the drowſie World: The <hi>Queen of the South</hi> came from the uttermoſt parts to hear him:
+<note place="margin">Matt. 12.42.</note> But behold, a greater then <hi>Solomon</hi> is here! they were not like <hi>This Day.</hi>
+               </p>
+               <p>
+                  <hi>Niniveh</hi> had forty days, and re<g ref="char:EOLhyphen"/>pented at the preaching of <hi>Jonah;</hi>
+                  <note place="margin">V. 41.</note> but behold, a greater then <hi>Jonas</hi> is here! they were not like <hi>This Day.</hi>
+               </p>
+               <p>
+                  <hi>God ſpake at ſundry times,</hi>
+                  <note place="margin">Heb. 1.1.</note> 
+                  <hi>and in diverſe manners in time paſt unto the Fathers by the Prophets; but hath in theſe laſt days ſpoken
+<pb n="45" facs="tcp:135120:26"/>by his Son,</hi> a Prophet, more then a Prophet; there were none of them like <hi>This Day.</hi>
+               </p>
+               <p>
+                  <hi>Moſes</hi> was <hi>Impeditoris linguae,</hi> of a ſlow ſpeech, (Stammered,
+<note place="margin">Exod. 4.10.</note> as ſome render it) he ſays ſo of him<g ref="char:EOLhyphen"/>ſelf.
+<note place="margin">Iſa. 6.5.</note> 
+                  <hi>Eſai</hi> cryes out of <hi>Labia im<g ref="char:EOLhyphen"/>munda,</hi> I am a man of unclean lips.
+<note place="margin">Jer. 1.6.</note> 
+                  <hi>Jeremy</hi> complains, with a <hi>Neſcio lo<g ref="char:EOLhyphen"/>qui; Ah, Lord God, behold, I cannot ſpeak, for I am a Childe.</hi> Thus were the former times ſerved: but now the Maſter himſelf ſerves, the Word himſelf ſpeaks,
+<note place="margin">Bern.</note> 
+                  <hi>Et ipſe quem loquuntur, ipſe loquitur,</hi> (that you may have it in the Fathers language:) He ſpeaks, they all ſpake of. The conſola<g ref="char:EOLhyphen"/>tion of <hi>Iſrael,</hi> the deſire of all Nations was come; and <hi>Spectant,</hi> in the ſtead of <hi>Expectabant;</hi> they may now ſee him, whom ſo many Ages had ſought after; <hi>Et Phoſphore redde diem,</hi> is now out of date; for the Sun hath brought away the Day, that Day like unto which there was none before it, nor af<g ref="char:EOLhyphen"/>ter it ſhall be any till day and night come to an end; it was <hi>This thy Day</hi>
+               </p>
+               <pb n="46" facs="tcp:135120:27"/>
+               <p>And, for a cloſe of this, it was <hi>This</hi> with an <hi>Et quidem</hi> too, At Leaſt, in This thy Day. There's much in this At Leaſt, very much; take a little of it.</p>
+               <p>
+                  <hi>At Leaſt,</hi> whilſt the Ports and Paſſages of Mercie are open, the healing wings expanded to gather thee, and the everlaſting Arms ex<g ref="char:EOLhyphen"/>tended to embrace thee; before he bend his Bow like an Enemy, and ſtand with his right hand like an Adverſary, and ſlay all that are pleaſant to the Tabernacle of the Daughter of <hi>Zion.</hi>
+               </p>
+               <p>
+                  <hi>At Leaſt,</hi> whilſt patience waits, and long-ſuffering expects, and importunity ſollicites; Love ſtand<g ref="char:EOLhyphen"/>ing till his Head be wet with the Dew, and his Locks with the drops of the Night.</p>
+               <p>
+                  <hi>At Leaſt,</hi> whilſt you may go a<g ref="char:EOLhyphen"/>bout <hi>Zion,</hi> and tell <hi>the Towers thereof, and mark well her Bull<g ref="char:EOLhyphen"/>warks, and conſider her Palaces:</hi> before the Heathen come into Gods Inheritance, and deſile the holy Temple, and bring in the Abomination which maketh de<g ref="char:EOLhyphen"/>ſolate.</p>
+               <pb n="47" facs="tcp:135120:27"/>
+               <p>
+                  <hi>At Leaſt,</hi> whilſt the Candle of God ſhines upon thy head, and the Almighty is yet with thee, whilſt thou waſheſt thy ſteps in Butter, and the Rock pours thee out Ri<g ref="char:EOLhyphen"/>vers of Oyl; before the meaſure of iniquity, and the Vials of wrath be filled up, and inquiſition be made for blood, the blood of all the Prophets, and it be required of this Generation.</p>
+               <p>
+                  <hi>At Least,</hi> whilſt thou ſitteſt un<g ref="char:EOLhyphen"/>der the ſmiles of Heaven, Mercy is near, and bleſſings hover over thee; before they be gone, and leave no place of repentance, though thou ſeek them carefully with tears.</p>
+               <p>
+                  <hi>At Leaſt,</hi> whilſt the laſt, and moſt inviting offers are made; be<g ref="char:EOLhyphen"/>fore loving kindneſs be ſhut up in diſpleaſure, never to open more.</p>
+               <p>
+                  <hi>At Leaſt,</hi> whilſt he ſtrengtheneth the Bars of thy Gates, and bleſſeth thy Children within thee, and thou haſt a capacity of thy well<g ref="char:EOLhyphen"/>fare by thee; before thy Walls be raſed, and thoſe goodly ſtones of
+<pb n="48" facs="tcp:135120:28"/>the Temple made a ruinous heap, thy Country deſolate, thy City burnt with fire, the Daughter of <hi>Zion</hi> be left as a Cottage in a Vine<g ref="char:EOLhyphen"/>yard, as a lodge in a Garden of Cucumers; and thou be as <hi>Sodom,</hi> and be made like unto <hi>Gomorrah,</hi> becauſe thou knoweſt not the Day of thy Viſitation, thy Day, this thy Day, <hi>At leaſt in this thy Day.</hi>
+               </p>
+               <p>You have heard their <hi>Improvi<g ref="char:EOLhyphen"/>dence,</hi> the ſecond charge againſt them, which our Saviour bewails them for, upbraids them with; they knew not, though they had a Day for it, a proper and peculiar Day; If thou hadſt known, even thou, <hi>At leaſt in this thy Day.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <p>The third onely remains, their <hi>Imprudence,</hi> in that the things they knew not, were no trifles, or impertinences; no curious Vanities, nor empty Speculations; but mat<g ref="char:EOLhyphen"/>ters of moment and weight, of neareſt and greateſt intereſt; they had all at Stake upon it; they were <hi>Quae ad pacem tibi,</hi> The
+<pb n="49" facs="tcp:135120:28"/>things which belong unto thy Peace.</p>
+               <p>
+                  <hi>Peace,</hi> it is the Nerve and Sinews of Cities and Kingdoms; it holds the world in being; it is the chi<g ref="char:EOLhyphen"/>ming of the Univerſe, Heaven and Earth in harmonie: It is the Bre<g ref="char:EOLhyphen"/>viate of Bleſſings, the World in a World. <hi>Quae ad pacem,</hi> is, all this people, any people could or can have.
+<note place="margin">Beza An<g ref="char:EOLhyphen"/>not. in Lo<g ref="char:EOLhyphen"/>cum.</note> 
+                  <hi>Ea in quibus poſita eſt tota tua faelicitas,</hi> that in which thy preſent and eternal welfare doth conſiſt.</p>
+               <p>The <hi>Hebrews</hi> were wont to call all which they thought good, by the name of Peace. <hi>The Priest's</hi> Bleſſing in the old Teſtament was,
+<note place="margin">Lev. 6.26.</note> 
+                  <hi>The Lord lift up his Counte<g ref="char:EOLhyphen"/>nance upon thee, and grant thee peace:</hi> And the <hi>Apoſtle's</hi> Bleſſing in the New was, <hi>Grace</hi> and <hi>Peace, Truth</hi> and <hi>Peace, Mercy</hi> and <hi>Peace; Peace</hi> of the <hi>Quorum</hi> ſtill among all good things, as if all were good for nothing without <hi>Peace.</hi>
+               </p>
+               <pb n="50" facs="tcp:135120:29"/>
+               <p>Chriſt gave it when born, 'twas <hi>Xenium,</hi> his New-years-gift, <hi>Peace on Earth;</hi>
+                  <note place="margin">Luk. 2.14.</note> left it when dying, 'twas <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, his Legacie, (ſo St.
+<note place="margin">Joh. 14.27.</note> 
+                  <hi>Baſil) My peace I give unto you.</hi>
+               </p>
+               <p>It was the purpoſe of his Miſ<g ref="char:EOLhyphen"/>ſion,
+<note place="margin">Eph. 2.15.</note> 
+                  <hi>
+                     <g ref="char:V">Ʋ</g>t duos condat in uno, faci<g ref="char:EOLhyphen"/>ens pacem,</hi> to make of twain one new man, ſo making Peace: It was the purchaſe of his Paſſion, <hi>Pax vobis,</hi>
+                  <note place="margin">Joh. 20.19, 20.</note> and <hi>then he ſhew'd them his hands and his feet.</hi>
+               </p>
+               <p>When I have ſaid Peace, I have ſaid all; ſo theſe people not knowing <hi>Quae ad pacem,</hi> did in truth know nothing at all.</p>
+               <p>Strange! <hi>Hieruſalem</hi> the Viſi<g ref="char:EOLhyphen"/>on of Peace,
+<note place="margin">
+                     <hi>In Epiſt. ad Marcell. Et Ber<g ref="char:EOLhyphen"/>nard.</hi> 9. <hi>Ser</hi> 2. <hi>in vig. natal. Domini.</hi>
+                  </note> as St. <hi>Hierom</hi> inter<g ref="char:EOLhyphen"/>prets it, ſhould not ſee Peace. Their Neighbours of <hi>Tyre</hi> and <hi>Si<g ref="char:EOLhyphen"/>don</hi> were wiſer, who implored a Peace from <hi>Herod</hi> upon a leſs con<g ref="char:EOLhyphen"/>cern.
+<note place="margin">Gal. 4.9.</note> But they ſpent themſelves <hi>In egenis elementis,</hi> buſied their enquiries after weak and beggarly
+<pb n="51" facs="tcp:135120:29"/>Elements; and never regarded Wiſdom, whoſe Merchandize is better then ſine Gold.</p>
+               <p>
+                  <hi>Tertullus</hi> his Tongue was well hung; <hi>Gamaliel,</hi> the glory of the Bar; <hi>Nicodemus,</hi> a Maſter in <hi>Iſrael,</hi> expert in all Cuſtoms and Queſti<g ref="char:EOLhyphen"/>ons among the Jews: theſe could make Ceremonies ſpeak, ſum up the very Letters of all the Secti<g ref="char:EOLhyphen"/>ons of the Law; tell you what odds betwixt them, and the days and hours of the year; compare words and ſyllables, with the joints and bones of their bodies, and make out the compariſon too: but come to ſpeak of the <hi>Meſſias,</hi> the Sa<g ref="char:EOLhyphen"/>viour of the World, how and when born; the myſterie of Re<g ref="char:EOLhyphen"/>generation, and how a man may be born again; they finde no ſuch Caſe in their Law-books, you have given a baffle to all their Learning. Their knowledge went much at the rate of their Tithing, <hi>Mint,</hi>
+                  <note place="margin">Mat. 23.23.</note> 
+                  <hi>Aniſe &amp; Cummin,</hi> with neglect of the <hi>Weightier matters of the Law, Judgement, Mercy and Faith.</hi> They
+<pb n="52" facs="tcp:135120:30"/>did <hi>Haerere in Cortice,</hi> and Shells ſpeak emptineſs. They were men of the Letter onely, and ſo in truth but illiterate. No people pretended more to knowledge; but for <hi>Quae ad pacem,</hi> there's a <hi>Si Cognoviſſes</hi> twitcheth them; <hi>If thou hadſt known the things which belong unto thy peace.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <p>And now, if you pleaſe, let's ſee if this <hi>Si Cognoviſſes</hi> do not come a little nearer us. There's a great deal of knowledge in the World, of which little looks at <hi>Quae ad pacem,</hi> the things which belong to Peace.</p>
+               <p>The <hi>Gnoſticks,</hi> I wave as un<g ref="char:EOLhyphen"/>worthy; they pretended to know, rather then knew; their name was no great credit to them, though derived from knowledge: <hi>Viam pae<g ref="char:EOLhyphen"/>cis non cognoverunt,</hi> the world had better never have known them.</p>
+               <p>The <hi>Jeſuits</hi> rant it high, <hi>Penes
+<pb n="53" facs="tcp:135120:30"/>nos eſt Imperium Literarum;</hi> they know much, we will grant it: but all Chriſtendom knows, and be<g ref="char:EOLhyphen"/>yond <hi>Ganges</hi> and <hi>Indus</hi> it is known (if the late <hi>China</hi>-ſtories do not wrong them) <hi>Quae ad pacem</hi> is leaſt in their deſigns, they will not know the things that belong to Peace.</p>
+               <p>To come nearer home yet. We live in a Sagacious Age; men be<g ref="char:EOLhyphen"/>gin to ſcoure off the ruſt of anti<g ref="char:EOLhyphen"/>quated Authors, and burniſh them<g ref="char:EOLhyphen"/>ſelves with new and happy ac<g ref="char:EOLhyphen"/>quirings. Never Age made an higher improvement of Natural Knowledge; may the Divine keep pace with it, that <hi>Si Cognoviſſes quae ad pacem</hi> may never reproach ſuch excellent Indagatots. <hi>If thou hadst known the things which be<g ref="char:EOLhyphen"/>long to thy Peace.</hi>
+               </p>
+               <p>The <hi>Divine</hi> takes the Chair, ties and unties knots, raiſeth ſcruples, reſolves them; Champions it for his Church, diſarms his Adver<g ref="char:EOLhyphen"/>ſarie, fills the Schools with his
+<pb n="54" facs="tcp:135120:31"/>Trophies, and atchieves the name of irrefragable; but at laſt, it may be, is baffled with a <hi>Si Cogno<g ref="char:EOLhyphen"/>viſſes quae ad pacem, If thou hadſt known the things which belong to thy peace.</hi>
+               </p>
+               <p>The <hi>Lawyer</hi> is thought ſome<g ref="char:EOLhyphen"/>bodie in his Country; and how uſefully knowing ſome may be in that eminent Profeſſion, we need not ſeek out of this Aſſembly for evidence: The better World payes a juſt honour to the merits of ſome here preſent;
+<note place="margin">Baron. Hales, <hi>&amp;c.</hi>
+                  </note> may their ſhare be as great in the beſt know<g ref="char:EOLhyphen"/>ledge, that they may never hear a <hi>Si Cognoviſſes quae ad pacem,</hi> to implead them at the great Tri<g ref="char:EOLhyphen"/>bunal, <hi>If thou hadſt known the things which belong unto thy Peace.</hi>
+               </p>
+               <p>The <hi>Phyſitian</hi> hath found a new ſtream through the old Lake of blood; rifled the boſome, and raved into the bowels of Cauſes; gone deep to lay the Foundation of his Mineral Kingdom, pretend<g ref="char:EOLhyphen"/>ing
+<pb n="54" facs="tcp:135120:31"/>to make ſome pretty little Im<g ref="char:EOLhyphen"/>mortalities here below: but he dies like the Fool,
+<note place="margin">Pſa. 49.10.</note> and the bruitiſh perſon, and ſadly reflects upon himſelf with a <hi>Si Cognoviſſes quae ad pacem; If thou hadst known the things which belong unto thy Peace.</hi>
+               </p>
+               <p>The <hi>Vertuoſo,</hi> diſdaining the ſhoulder of the talleſt Philoſopher to help him up, looks over all Antiquity by new Modes and Methods of his own; findes out the Original of Forms; ſees thoſe Effluviums of kindneſs, that paſs betwixt attractive bodies and their Objects; diſcovers how the Species of things are laid up in the Memorie, and each comes up, and preſents it ſelf at the call of the Underſtanding, whilſt the reſt lye ſtill; reads Lectures of Magnitude upon the moſt Minute Bodies; looks wiſhly into the Air, and findes it all ſtones, and thoſe ani<g ref="char:EOLhyphen"/>mated too; takes the Heavens with his <hi>Teleſcope;</hi> holds intelli<g ref="char:EOLhyphen"/>gence with the Stars; knows all
+<pb n="56" facs="tcp:135120:32"/>their Geſts and Journeys: no Travailer is better verſed in the ways of this lower World; and yet happily at laſt is convinced that <hi>Si Cognoviſſes quae ad pa<g ref="char:EOLhyphen"/>cem</hi> is infinitely deſirable before them all. <hi>If thou hadſt known the things that belong unto thy Peace.</hi>
+               </p>
+               <p>All theſe are Droſs and Dung, nothing, or worſe then nothing to <hi>Quae ad pacem,</hi> to the excellencie of the knowledge of Jeſus Chriſt; ſo St. <hi>Paul,</hi> who was <hi>Scholar</hi> e<g ref="char:EOLhyphen"/>nough, charged by <hi>Festus</hi> for o<g ref="char:EOLhyphen"/>ver-much, by none for over-little learning.</p>
+               <p>When they of <hi>Epheſus</hi> began to know <hi>Quae ad pacem,</hi> and the Name of Jeſus; the Prince of Peace was magnified; the Con<g ref="char:EOLhyphen"/>juring-Books, and Papers of cu<g ref="char:EOLhyphen"/>rioſity were burned, not now fit to remain as waſte Paper, though formerly of great value, more worth then many of our whole Libraries.</p>
+               <pb n="57" facs="tcp:135120:32"/>
+               <p>There is ſtill ſome inconveni<g ref="char:EOLhyphen"/>ence haunts and attends all know<g ref="char:EOLhyphen"/>ledge, but this of <hi>Quae ad pacem. Scientia inflat,</hi> other knowledge puffs up, but this edifies: <hi>Scientia deſtruitur,</hi> other knowledge ſhall vaniſh away, but this is above the power of the grave, keeps us company into the other world. All other is but <hi>Saltus Cicadae,</hi> like the ſhort skips of a pitiful Graſhop<g ref="char:EOLhyphen"/>per; this is <hi>Volatus Aquilae,</hi> the ſoarings of an Eagle in the face of Heaven. When we have gotten as much knowledge as our heads can hold, we ſhall finde <hi>Quae ad pacem</hi> is all in all, to know the things that can make us happy, <hi>that belong unto our Peace.</hi>
+               </p>
+               <p>And now, the Apoſtle, if you pleaſe, ſhall lead us to a cloſe of all. <hi>Let us follow after the things which make for peace,</hi>
+                  <note place="margin">Rom. 14.19.</note> 
+                  <hi>and things where<g ref="char:EOLhyphen"/>by one may edifie another. Quae pacis ſunt,</hi> the very appurtenances of peace are precious, and worthy our purſuit.</p>
+               <pb n="58" facs="tcp:135120:33"/>
+               <p>
+                  <hi>My Lords the Judges,</hi> and you the <hi>Magiſtrates,</hi> remember, I be<g ref="char:EOLhyphen"/>ſeech you, that you carry <hi>Quae ad pacem</hi> in your Commiſſions and Ti<g ref="char:EOLhyphen"/>tle; and let the troublers of <hi>Iſrael</hi> know that you carry not the ſword in vain.</p>
+               <p>Let the <hi>Clergy</hi> remember that it is a promiſe at leaſt, made at the Ordering of Prieſts, <hi>to ſet for<g ref="char:EOLhyphen"/>ward peace and love among all Chriſtians;</hi> that we may have no more of that diſmal wild-fire thrown abroad from the Pulpit, which probably kindled, but moſt certainly increaſed our late flames. <hi>Quam ſpecioſi pedes Evangelizan<g ref="char:EOLhyphen"/>tium pacem?</hi> How beautiful are the feet of them that preach the Goſpel of peace?</p>
+               <p>Let the <hi>Gentlemen of the long Robe</hi> hug no quarrels under it, but Love <hi>Quae ad pacem</hi> better then commonly they do. It is below you, with <hi>Demetrius</hi> and his Fel<g ref="char:EOLhyphen"/>lows, not to 'bate an Hair of your <hi>Diana,</hi> becauſe by this craft you
+<pb n="59" facs="tcp:135120:33"/>have your wealth. Aſſure your ſelves, <hi>Quae ad pacem</hi> will get you a better name; build you a ſurer houſe; make you a happier <hi>Exit: Mark the juſt man,</hi>
+                  <note place="margin">Pſa. 37.37.</note> 
+                  <hi>and conſider the upright; for the end of that man is peace.</hi>
+               </p>
+               <p>And as to the <hi>Commonalty,</hi> me thinks <hi>Quae ad pacem</hi> ſhould do well with them, after ſuch noiſe of the Warriour, and Garments rolled in blood. And though it may juſt<g ref="char:EOLhyphen"/>ly be ſuſpected, there are ſome ſtill, whoſe words are ſofter then butter, but War is in their hearts; yet it is to be hoped God will ere long ſcatter thoſe people that delight in War, and give his people the bleſſing of Peace.</p>
+               <p>That we may ſee <hi>Auguſtus his peace,</hi> the Temple of <hi>Janus</hi> ſhut,
+<note place="margin">
+                     <hi>Janum Quirinis clauſit. Hor. li: carm.</hi> 4. <hi>Od.</hi> 15.</note> peace of Nations. <hi>Orbem pacatum,</hi> a conſtant petition in the Com<g ref="char:EOLhyphen"/>mon-prayers of <hi>Tertullian</hi>'s days, a quiet World.</p>
+               <pb n="60" facs="tcp:135120:34"/>
+               <p>
+                  <hi>Hieruſalem's Peace,</hi> the Peace of the Church.
+<note place="margin">Pſal. 122.6.</note> 
+                  <hi>Let them proſper that love it.</hi>
+               </p>
+               <p>
+                  <hi>Hamor's Peace,</hi> the Peace of the Common-wealth:
+<note place="margin">Gen. 34.21.</note> 
+                  <hi>Theſe men are peaceable with us, let them dwell in the land, and trade therein:</hi> Peace of Commerce.</p>
+               <p>St. <hi>Paul's Peace,</hi> Peace and joy, the ceaſing of the ſtorm, and the breaking out of the Sun: Peace of Conſcience.</p>
+               <p>
+                  <hi>Jacob's Peace,</hi> Peace with God, a Ladder from Earth to Hea<g ref="char:EOLhyphen"/>ven: Peace of Correſpondence.</p>
+               <p>
+                  <hi>Hezekiah's Peace,</hi> Peace and Truth in our days, Peace all our lives.</p>
+               <p>
+                  <hi>Simeon's Peace,</hi> Peace at our death, <hi>Pacem in Noviſſimis,</hi> Lord now letteſt thou thy Servants de<g ref="char:EOLhyphen"/>part in Peace.</p>
+               <p>And ſo at laſt come to the
+<pb n="61" facs="tcp:135120:34"/>Diſciples Peace, a little before the Text; <hi>Pacem in Coelo,</hi> Peace in Heaven, and Glory in the Higheſt.</p>
+               <p>To which Peace he brings us, who hath bought it for us with his Precious Blood, and is our Peace-maker; the Mighty God, the everlaſting Father, the Prince of Peace: Unto him be Glory in the Church throughout all Ages, World without end. <hi>Amen.</hi>
+               </p>
+            </div>
+            <closer>HALLELUJAH.</closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:135120:35"/>
+         </div>
+      </body>
+   </text>
+</TEI>
